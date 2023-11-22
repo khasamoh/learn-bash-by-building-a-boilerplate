@@ -210,3 +210,5 @@ touch server.js
 touch READMEmd
 touch README.md
 ls --color=auto
+echo Yay
+echo Yay!
