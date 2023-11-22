@@ -187,3 +187,4 @@ rm images/background.jpg
 rm images/footer.jpeg images/header.png
 rmdir images/
 ls --color=auto
+mkdir client/assets/icons
