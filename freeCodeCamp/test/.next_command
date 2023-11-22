@@ -139,3 +139,9 @@ mkdir images
 cd images/
 touch background.jpg
 cd ../../..
+touch background.jpg
+touch header.png
+mkdir images
+mv background.jpg images/
+mv header.png images/
+cd images/
