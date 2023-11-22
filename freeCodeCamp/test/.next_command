@@ -184,3 +184,5 @@ cp -r client/assets/images/ .
 cd images/
 cd ..
 rm images/background.jpg
+rm images/footer.jpeg images/header.png
+rmdir images/
