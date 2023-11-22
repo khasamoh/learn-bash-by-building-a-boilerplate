@@ -195,3 +195,6 @@ mv freeCodeCamp.svg client/assets/icons/
 find
 mkdir client/assets/fonts
 touch client/assets/fonts/roboto-bold.woff
+mkdir client/assets/fonts/roboto-light.woff
+rmdir client/assets/fonts/roboto-light.woff
+touch client/assets/fonts/roboto-light.woff
