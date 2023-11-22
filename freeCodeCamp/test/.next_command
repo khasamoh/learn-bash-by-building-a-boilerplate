@@ -131,3 +131,8 @@ find
 cd client/
 mkdir assets
 cd assets/
+mv ../../images .
+ls --color=auto
+rm images/
+rm -r images/
+mkdir images
