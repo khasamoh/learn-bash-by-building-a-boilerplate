@@ -149,3 +149,4 @@ ls --color=auto
 touch footer.jpeg
 ls --color=auto
 mv header.png ..
+ls --color=auto
