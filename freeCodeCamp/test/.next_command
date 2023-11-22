@@ -136,3 +136,4 @@ ls --color=auto
 rm images/
 rm -r images/
 mkdir images
+cd images/
