@@ -160,3 +160,11 @@ find -name client/assets/images/header.png
 find -name client/assets/images/
 find -name client/assets/images
 find -name images
+ls --color=auto
+touch header.jpg
+mv header.jpg client/assets/images/
+ls --color=auto
+touch header.jpg
+ls --color=auto
+mv header.jpg header.png
+mv header.png client/assets/images/
