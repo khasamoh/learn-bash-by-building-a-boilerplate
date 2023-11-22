@@ -44,3 +44,6 @@ ls --color=auto
 more README.md
 more README.md
 ls --color=auto
+ls --color=auto -a
+ls --color=auto
+more LICENSE-MIT
