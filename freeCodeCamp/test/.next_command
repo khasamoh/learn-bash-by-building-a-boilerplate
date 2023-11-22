@@ -146,3 +146,6 @@ mv background.jpg images/
 mv header.png images/
 cd images/
 ls --color=auto
+touch footer.jpeg
+ls --color=auto
+mv header.png ..
