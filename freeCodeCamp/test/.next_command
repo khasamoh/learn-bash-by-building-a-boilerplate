@@ -138,3 +138,4 @@ rm -r images/
 mkdir images
 cd images/
 touch background.jpg
+cd ../../..
