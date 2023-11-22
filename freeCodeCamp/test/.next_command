@@ -214,3 +214,7 @@ echo Yay
 echo Yay!
 echo I finished the boilerplate!
 echo one more thing...
+echo Imade this boilerplate >> README.md
+echo Imade this boilerplate >> README
+echo I made this boilerplate >> README
+echo I made this boilerplate >> README.md
