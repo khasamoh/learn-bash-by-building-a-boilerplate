@@ -198,3 +198,4 @@ touch client/assets/fonts/roboto-bold.woff
 mkdir client/assets/fonts/roboto-light.woff
 rmdir client/assets/fonts/roboto-light.woff
 touch client/assets/fonts/roboto-light.woff
+find client/assets/fonts/
